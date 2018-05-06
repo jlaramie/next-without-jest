@@ -1,0 +1,17 @@
+{
+  "name": "next-without-jest",
+  "description":
+    "Exclude tests from your Next.js builds, so you can safely colocate them",
+  "license": "MIT",
+  "author": "Stian Didriksen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stipsan/next-without-jest.git"
+  },
+  "version": "1.0.1",
+  "peerDependencies": {
+    "jest-config": ">22.0.0",
+    "micromatch": ">2.3.11"
+  },
+  "keywords": ["exclude", "jest", "next", "next.js", "plugin", "tests"]
+}
